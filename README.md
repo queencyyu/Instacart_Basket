@@ -27,8 +27,8 @@ The data was analyzed using Python and the following supporting libraries:
 
 ### Folders
 The project files are stored in following folder structure:
-01 Project Management: Project brief
-02 Data: Separated into two subfolders Original Data which contain the original data frames and Prepared Data contain the data frames after they have been cleaned and prepared for analysis. (Data files not uploaded to GitHub due to size limitations.)
-03 Scripts: Jupyter notebooks containing coding for the analysis.
-04 Analysis: The Visualizations subfolder contains the visualizations used for developing and explaining insights.
-05 Sent to Client: The final report presented in Excel
+- 01 Project Management: Project brief
+- 02 Data: Separated into two subfolders Original Data which contain the original data frames and Prepared Data contain the data frames after they have been cleaned and prepared for analysis. (Data files not uploaded to GitHub due to size limitations.)
+- 03 Scripts: Jupyter notebooks containing coding for the analysis.
+- 04 Analysis: The Visualizations subfolder contains the visualizations used for developing and explaining insights.
+- 05 Sent to Client: The final report presented in Excel
